@@ -1,7 +1,7 @@
 {
   "version": 2,
   "name": "products",
-  "alias": "products.sklinkusch.now.sh",
+  "alias": "products.fridgerio.now.sh",
   "builds": [
     {
       "src": "index.js",
